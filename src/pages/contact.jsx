@@ -47,7 +47,7 @@ const Contact = () => {
 							Thank you for your interest in getting in touch with
 							me. I welcome your feedback, questions, and
 							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
+							comment, or you interesting in my CV, please feel free to email me directly at
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
